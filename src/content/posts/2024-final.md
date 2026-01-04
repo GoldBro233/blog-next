@@ -1,7 +1,7 @@
 ---
-title: 2024年年度总结
+title: 2024 年年度总结
 published: 2024-12-31
-description: '这是我的2024年。'
+description: '这是我的 2024 年。'
 image: ''
 tags: [Life, Annual-summary]
 category: 'Life'
